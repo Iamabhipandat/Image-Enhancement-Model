@@ -1,0 +1,6 @@
+gradio
+kornia
+torch
+torchvision
+pillow
+numpy
